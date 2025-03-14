@@ -1,0 +1,26 @@
+For my Travel Adventures website, I implemented several custom styling and design elements 
+to make it visually appealing and easy to navigate. Three key customizations I focused on 
+were custom fonts and typography, a personalized color scheme, and layout adjustments to 
+improve the overall structure and user experience.
+
+First, I used the 'Poppins' font throughout the website to give it a clean and modern look. 
+I adjusted font sizes and weights to create a clear text hierarchy—h1 is larger to stand out,
+h2 has an accent-colored underline to make sections more distinct, and h3 is styled in deep 
+teal to match the theme. I also increased the line height in paragraphs to improve 
+readability.
+
+Second, I customized the color scheme to make the website look more polished and visually 
+cohesive. I used soft off-white and light teal for the background to keep it light and easy 
+on the eyes, while the text is in dark blue-gray for contrast. The header and footer have a 
+deep teal background to make them stand out, and I used an accent color for headings, hover 
+effects, and links. To add interactivity, navigation links change color on hover, and I 
+added a subtle box-shadow to the header for a slight 3D effect.
+
+Finally, I made layout and spacing adjustments to ensure everything looks organized and 
+well-spaced. The main content is centered (max-width: 1000px) with padding to keep it easy 
+to read. I styled the destination sections as cards with a white background, rounded corners,
+and soft shadows. To make the site more interactive, I added a hover effect so the cards 
+slightly lift when hovered over. The image gallery is arranged using display: flex; 
+justify-content: center;, ensuring proper alignment, and images have rounded corners with a 
+hover effect to make them more engaging. The footer matches the header for a consistent 
+design, and links change color smoothly when hovered over.
